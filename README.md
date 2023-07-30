@@ -82,3 +82,5 @@ Expense APP
     • Interceptors
     • Modules
     • Pipes
+
+    npm install uuid @types/uuid
