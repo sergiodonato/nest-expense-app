@@ -77,10 +77,16 @@ Nest is [MIT licensed](LICENSE).
 Expense APP
 
     • Controllers = creating endpoints
-    • Services
-    • DTOS
-    • Interceptors
-    • Modules
-    • Pipes
+
+    • Services = business logic
+
+    • DTOS(Data Transfer Objects) =
+
+    • Interceptors = 
+
+    • Modules = adding dependencies
+
+    • Pipes = 
+
 
     npm install uuid @types/uuid
