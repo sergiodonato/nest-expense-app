@@ -86,7 +86,9 @@ Expense APP
 
     • Modules = adding dependencies
 
-    • Pipes = 
+    • Pipes = transform and validate
 
 
     npm install uuid @types/uuid
+
+    npm install class-validator class-transformer
