@@ -92,3 +92,5 @@ Expense APP
     npm install uuid @types/uuid
 
     npm install class-validator class-transformer
+
+    2:22:50
